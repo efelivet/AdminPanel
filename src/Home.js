@@ -34,7 +34,7 @@
  
  
    return (
-     <Grid container sx ={{display:"flex",background: "#151735"}} >
+     <Grid container sx ={{display:"flex",background: "#151735",height:"100vh"}} >
       <Grid size ={{xs:2,md:2}} sx ={{background: "#151735"}}>
           <Box sx ={{p:1}}>
              
